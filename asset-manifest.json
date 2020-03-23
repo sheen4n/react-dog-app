@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-dog-app/static/css/main.8a3c274a.chunk.css",
+    "main.css": "/react-dog-app/static/css/main.ece8b792.chunk.css",
     "main.js": "/react-dog-app/static/js/main.0d9b88b5.chunk.js",
     "main.js.map": "/react-dog-app/static/js/main.0d9b88b5.chunk.js.map",
     "runtime-main.js": "/react-dog-app/static/js/runtime-main.bd6e615b.js",
@@ -9,10 +9,10 @@
     "static/js/2.a58559ab.chunk.js": "/react-dog-app/static/js/2.a58559ab.chunk.js",
     "static/js/2.a58559ab.chunk.js.map": "/react-dog-app/static/js/2.a58559ab.chunk.js.map",
     "index.html": "/react-dog-app/index.html",
-    "precache-manifest.9b839d1986fe9b701a08abef097b8e7f.js": "/react-dog-app/precache-manifest.9b839d1986fe9b701a08abef097b8e7f.js",
+    "precache-manifest.4002b8f8e0545b7a737f54e68e2da9ee.js": "/react-dog-app/precache-manifest.4002b8f8e0545b7a737f54e68e2da9ee.js",
     "service-worker.js": "/react-dog-app/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/react-dog-app/static/css/2.de424728.chunk.css.map",
-    "static/css/main.8a3c274a.chunk.css.map": "/react-dog-app/static/css/main.8a3c274a.chunk.css.map",
+    "static/css/main.ece8b792.chunk.css.map": "/react-dog-app/static/css/main.ece8b792.chunk.css.map",
     "static/js/2.a58559ab.chunk.js.LICENSE.txt": "/react-dog-app/static/js/2.a58559ab.chunk.js.LICENSE.txt",
     "static/media/hazel.jpg": "/react-dog-app/static/media/hazel.4eb85e80.jpg",
     "static/media/tubby.jpg": "/react-dog-app/static/media/tubby.2f47cb65.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.bd6e615b.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.a58559ab.chunk.js",
-    "static/css/main.8a3c274a.chunk.css",
+    "static/css/main.ece8b792.chunk.css",
     "static/js/main.0d9b88b5.chunk.js"
   ]
 }
