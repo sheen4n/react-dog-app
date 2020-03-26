@@ -1,3 +1,9 @@
+View the Live Demo of the App at (https://sheen4n.github.io/react-dog-app)
+
+Inspired by Course by Colt Steele from Udemy. Full Credits to him.
+
+------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
